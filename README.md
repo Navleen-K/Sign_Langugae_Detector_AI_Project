@@ -1,4 +1,5 @@
 Sign Language Detector AI Project
+
 Real-time recognition of American Sign Language (ASL) fingerspelling from a webcam, running entirely in Google Colab. Hold up a letter sign and the project types it out. String letters together to build words and sentences.
 
 Features
